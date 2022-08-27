@@ -1,16 +1,35 @@
-### Hi there 👋
+- 👋 Hi, I’m Ademola Megbabi
 
-<!--
-**Megapreneur/Megapreneur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in Java, Javascript and Solidity
 
-Here are some ideas to get you started:
+- 📫 How to reach me: ademolamegbabi@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+<!---
+
+Megapreneur/Megapreneur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+You can click the Preview link to take a look at your changes.
+
+--->
+
+ 
+
+ 
+
+### Connect with Me 🤝
+
+👔 [linkedin][linkedin] **|**
+
+🗃️ [Gmail] ademolamegbabi@gmail.com
+
+ 
+
+[![Ademola's github stats](https://github-readme-stats.vercel.app/api?username=Megapreneur)](https://github.com/Megapreneur/github-readme-stats)
+
+ 
+
+ 
+
+[linkedin]: https://www.linkedin.com/in/ademola-megbabi-366810208/
