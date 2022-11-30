@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ademola Megbabi
 
-- 👀 I’m interested in Java, Javascript and Solidity
+- 👀 I’m interested in Java, Python, Typescript, Javascript and Solidity
 
 - 📫 How to reach me: ademolamegbabi@gmail.com
 
