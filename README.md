@@ -2,6 +2,8 @@
 
 - 👀 I’m interested in Java, Python, Typescript, Javascript and Solidity
 
+- I'm open for collaboration
+
 - 📫 How to reach me: ademolamegbabi@gmail.com
 
  
